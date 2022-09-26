@@ -1,13 +1,34 @@
 # Python for Data Science
 
 0. Instalación de entorno
-1. Introducción a la ciencia de datos
-2. Regresión
-3. Clasificación
-4. Clustering
-5. Ampliación Algoritmos Supervisado
-6. Random Forests, CV y exportación de modelos
-7. Imputación, PCA, SVM y NN
 
+cap1. Introducción a la ciencia de datos
+1.1. Contexto
+- Diferencias entre Data Science, Business Intelligence y Big Data
+- Aprendizaje supervisado vs Aprendizaje no supervisado
+1.2. Review Pandas y Seaborn
+1.3. Introducción al Scikitlearn
+- Introducción al Scikitlearn
+- Preprocesamiento de datos
+- Ingeniería de variables
+- Overfitting y underfitting
 
+cap2. Principales algoritmos de Regresión
+- Regresión lineal y evaluación de modelos numéricos
+- Árboles de regresión
+- Random Forests
+- Redes neuronales
+- Validación interna, externa y cruzada
 
+cap3. Principales algoritmos de Clasificación
+- Regresión logística y evaluación de modelos basados en categorías
+- Árboles de clasificación
+- KNN
+- Support Vector Machine
+- Selección de parámetros automática
+
+cap4. Otras técnicas de ciencia de datos
+- Reducción de la dimensionalidad (PCA)
+- Clustering (K-means, Jerárquico, Espectral)
+- Recomendadores
+- Introducción a la simulación
