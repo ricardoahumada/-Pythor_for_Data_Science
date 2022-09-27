@@ -7,14 +7,14 @@ cap1. Introducción a la ciencia de datos
 - Diferencias entre Data Science, Business Intelligence y Big Data
 - Aprendizaje supervisado vs Aprendizaje no supervisado
 1.2. Review Pandas y Seaborn
-1.3. Introducción al Scikitlearn
-- Introducción al Scikitlearn
+1.3. Scikitlearn
+- Introducción a Scikitlearn
 - Preprocesamiento de datos
 - Ingeniería de variables
-- Overfitting y underfitting
 
 cap2. Principales algoritmos de Regresión
 - Regresión lineal y evaluación de modelos numéricos
+- Overfitting y underfitting
 - Árboles de regresión
 - Random Forests
 - Redes neuronales
